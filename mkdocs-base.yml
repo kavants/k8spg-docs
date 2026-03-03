@@ -202,6 +202,9 @@ nav:
           - "Anti-affinity and tolerations": constraints.md
           - "Labels and annotations": annotations.md
           - "Transport encryption (TLS/SSL)": TLS.md
+          - Data-at-rest encryption: 
+            - About data-at-rest encryption: encryption.md
+            - Configure data-at-rest encryption with HashiCorp Vault: encryption-setup.md
           - "Telemetry": telemetry.md
           - reconciliation-concurrency.md
     - Management:
